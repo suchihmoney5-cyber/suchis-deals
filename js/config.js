@@ -5,7 +5,8 @@
 window.SUCHIS_DEALS = {
   brandName: "Suchi's Deals",
   associateTag: "suchisdeals-20",
-  contactEmail: "hello@suchisdeals.example",
+  contactEmail: "suchihilmin@gmail.com",
+  contactPhone: "929-760-4710",
   primeOfferUrl: "https://amzn.to/46WvQFM",
   /** Build an Amazon product URL with the Associates tag. */
   amazonUrl: function (asin) {

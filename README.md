@@ -88,7 +88,7 @@ Or connect the Git repo in Cloudflare Pages with **build command empty** and **o
 ## What to customize before submitting to Amazon
 
 1. **Replace placeholder ASINs** (see table below) with real product ASINs from Amazon Associates SiteStripe / Product Linker. Keep `?tag=suchisdeals-20`.
-2. **Contact email** — replace `hello@suchisdeals.example` in `contact.html` and `js/config.js`.
+2. **Contact** — `suchihilmin@gmail.com` / `929-760-4710` (set in `contact.html` and `js/config.js`).
 3. **Prime offer copy** — eligibility and pricing change; keep “terms apply / not a guarantee” language; confirm `https://amzn.to/46WvQFM` still resolves to your current approved offer.
 4. **Expand original content** — Amazon expects substantive, unique pages (not thin link lists). Add more guides in your own voice as needed.
 5. **Host publicly** over HTTPS and submit that URL in Associates central.

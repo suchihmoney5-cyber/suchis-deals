@@ -47,7 +47,7 @@
         "\n\n" +
         message;
       var mailto =
-        "mailto:hello@suchisdeals.example?subject=" +
+        "mailto:" + ((window.SUCHIS_DEALS && window.SUCHIS_DEALS.contactEmail) || "suchihilmin@gmail.com") + "?subject=" +
         encodeURIComponent(subject) +
         "&body=" +
         encodeURIComponent(body);
